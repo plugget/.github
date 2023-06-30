@@ -5,7 +5,7 @@ Install app packages (plugins, addons, icons, ...) from a repo with a single Pyt
 import plugget
 plugget.install("my_package")
 ```
-
+This code downloads the manifest from the public plugget repo, reads the manifest for the source URL & install instructions, and installs the plugin or addon.
 
 Core repos:
 - [plugget](https://github.com/plugget/plugget)  The core Python module with all package download logic
