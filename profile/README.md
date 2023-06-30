@@ -16,8 +16,9 @@ These repos implement different dcc's:
   - [plugget-unreal](https://github.com/plugget/plugget-unreal)  An Unreal plugin that launches a Qt UI window
   - [plugget-qt-addon](https://github.com/plugget/plugget-qt-addon)  A Blender addon that launches a Qt UI window
 
-
-### package manager comparison
+<br>
+<details close><summary>🔍 Package managers compared</summary><blockquote>
+  
 Let's compare existing package managers, to help you understand if you need Plugget:  
 
 Why not use PyPI?
@@ -29,6 +30,4 @@ Why not use PyPI?
 What about WinGet, chocolatey, etc? These solutions install `apps`, Plugget installs  `plugins for apps`
 I believe it might be possible to use e.g. Chocolatey and use install scripts to install a plugin, however it seems quite complex to me. And Chocolatey wasn't really designed for this.
 
-### Bugs 
-
-It's still in active development, so if you find any issues, open an issue on the GitHub repo and we'll get back to you.
+</blockquote></details>
