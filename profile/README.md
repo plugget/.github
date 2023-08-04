@@ -1,5 +1,5 @@
 ## Plugget
-Plugget simplifies distribution of your tools & plugins. It supports various apps: Maya, 3ds-Max, Blender, Krita, Unreal, ...   
+Plugget simplifies distributing your tools & plugins. It supports various apps: Maya, 3ds-Max, Blender, Krita, Unreal, ...   
 Install app packages (plugins, addons, icons, ...) from a repo with a single Python command  
 ```python
 import plugget
