@@ -28,7 +28,7 @@ Let's compare existing package managers, to help you understand if you need Plug
 Why not use PyPI?
 - PyPI only installs packaged python modules. But many Blender scripts are not packaged, e.g. [this](https://github.com/absolute-quantum/cats-blender-plugin) addon.
 - Addons aren't meant to be installed as Python packages. Pip installs to `site packages`, instead of `addons`.
-- Most users (mostly artists) are overwhelmed by a pip install in a console. Plugget targets casual users, e.g. artists, who prefer a UI instead of a console.
+- Plugget targets casual users who prefer a UI instead of a console. 
 - Plugget also supports other languages than Python, e.g. Maxscript & Unreal plugins
 
 What about WinGet, chocolatey, etc? These solutions install `apps`, Plugget installs  `plugins for apps`
