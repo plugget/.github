@@ -17,6 +17,8 @@ _This code downloads the manifest from the public plugget repo,
 reads the manifest for the source URL & install instructions,  
 and installs the plugin or addon._
 
+## Repos
+
 #### Core repos:
 - [plugget](https://github.com/plugget/plugget)  The core Python module with all package download logic
 - [plugget-pkgs](https://github.com/plugget/plugget-pkgs)  The standard manifest repo for plugget packages
@@ -29,7 +31,7 @@ and installs the plugin or addon._
 
 <br>
 
-### WHy not use ... instead?
+### Why not use ... instead?
 <details close><summary>🔍 Package managers compared</summary><blockquote>
   
 Let's compare existing package managers, to help you understand if you need Plugget:  
