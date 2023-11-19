@@ -15,7 +15,7 @@ plugget.install("my_package")
 ```
 _This code downloads the manifest from the public plugget repo,  
 reads the manifest for the source URL & install instructions,  
-and installs the plugin or addon._
+and installs the plugin or addon to the correct folder._
 
 ## Repos
 
