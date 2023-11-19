@@ -1,8 +1,12 @@
-## Plugget
-Plugget simplifies distributing your tools & plugins. It supports various apps: Maya, 3ds-Max, Blender, Krita, Unreal, ...   
+# Plugget
+Plugget simplifies distributing your tools & plugins.  
+- Supports: Maya, 3ds-Max, Blender, Krita, Unreal, ...
+- Create private tool distribution lists for in-house pipelines, or search open source tools  
   
 Stop struggling with Perforce to distribute your tools, or forcing your Art-team to use Git.  
 Plugget handles the technical part⚡, and you create awesome tools for your team. 💪  
+
+## Quickstart
 
 Install your packages (plugins, addons, icons, ...) from a repo with a single Python command:
 ```python
