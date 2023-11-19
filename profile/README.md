@@ -31,7 +31,7 @@ Why not use PyPI?
 - Plugget targets casual users who prefer a UI instead of a console. 
 - Plugget also supports other languages than Python, e.g. Maxscript & Unreal plugins
 
-What about WinGet, chocolatey, etc? These solutions install `apps`, Plugget installs  `plugins for apps`
-I believe it might be possible to use e.g. Chocolatey and use install scripts to install a plugin, however it seems quite complex to me. And Chocolatey wasn't really designed for this.
+What about WinGet, chocolatey, etc? These solutions install `apps`, Plugget installs  `plugins for apps`  
+It might be possible to use Chocolatey's install scripts to install a plugin, however it seems complex, and Chocolatey wasn't designed for this.
 
 </blockquote></details>
