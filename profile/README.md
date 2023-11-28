@@ -26,8 +26,9 @@ and installs the plugin or addon and it's dependencies to the correct folder._
 #### UI wrappers for apps:
 - [plugget-blender-addon](https://github.com/plugget/plugget-blender-addon)  An addon to use plugget in Blender with a standard Blender UI.
 - [plugget-qt](https://github.com/plugget/plugget-qt)  A generic Qt UI window to install plugget packages, that can be used in any apps with Python.
-  - [plugget-unreal](https://github.com/plugget/plugget-unreal)  An Unreal plugin that launches a Qt UI window
-  - [plugget-qt-addon](https://github.com/plugget/plugget-qt-addon)  A Blender addon that launches a Qt UI window
+  - [plugget-unreal](https://github.com/plugget/plugget-unreal)  An Unreal plugin that launches the Plugget Qt window
+  - [plugget-qt-addon](https://github.com/plugget/plugget-qt-addon)  A Blender addon that launches the Plugget Qt UI window
+  - [plugget-qt-maya-plugin](https://github.com/plugget/plugget-qt-maya-plugin) A Maya plugin that launches the Plugget Qt UI window
 
 <br>
 
