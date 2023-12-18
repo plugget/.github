@@ -29,6 +29,7 @@ and installs the plugin or addon and it's dependencies to the correct folder._
   - [plugget-unreal](https://github.com/plugget/plugget-unreal)  An Unreal plugin that launches the Plugget Qt window
   - [plugget-qt-addon](https://github.com/plugget/plugget-qt-addon)  A Blender addon that launches the Plugget Qt UI window
   - [plugget-qt-maya-plugin](https://github.com/plugget/plugget-qt-maya-plugin) A Maya plugin that launches the Plugget Qt UI window
+  - [plugget qt substance painter](https://github.com/plugget/plugget-substance-painter-plugin)
 
 <br>
 
