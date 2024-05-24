@@ -1,4 +1,4 @@
-# Plugget
+# plugget
 Plugget simplifies distributing your tools & plugins.  
 - Supports: Maya, 3ds-Max, Blender, Krita, Unreal, ...
 - Create private tool distribution lists for in-house pipelines, or search open source tools  
